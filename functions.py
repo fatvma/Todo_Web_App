@@ -1,4 +1,4 @@
-FILEPATH = r"C:\courses\python mega course, 20 apps\web app\todos.txt"
+FILEPATH = r"C:\courses\python mega course, 20 apps\web_app\todos.txt"
 
 
 def get_todos(filepath=FILEPATH):
